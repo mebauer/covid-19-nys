@@ -27,41 +27,55 @@ Data Description: *This dataset includes information on the number of tests of i
 |  6 | New York    | 609             | 8,452                            | 1,294                             | 20,893                                 |
 |  7 | Rockland    | 538             | 4,289                            | 997                               | 10,108                                 |
 |  8 | Richmond    | 287             | 3,754                            | 563                               | 8,282                                  |
-|  9 | Orange      | 404             | 2,397                            | 1,114                             | 6,866
+|  9 | Orange      | 404             | 2,397                            | 1,114                             | 6,866  
 
 
 # Figures
+
 
 ## Bar Charts
 
 ![numer of cases by county  barh](figures/cases-by-county-barh.png)
 
-## Days Since 10th Positive Case
 
+##  Positives Per Day (Weekly Average) - Days Since 10th Positive Case
+### Top 10 Counties with Number of  Positives Cases
+
+![days since 10 daily cases top 10 weekly](figures/10-cases-timeseries-by-county-top-10-weekly.png)
+
+![days since 10 daily cases top 10 weekly log](figures/10-cases-timeseries-by-county-top-10-weekly-log.png)
+
+
+##  Cumulative Positives - Days Since 10th Positive Case
+### Top 10 Counties with Number of  Positives Cases
 ![days since 10 cases top 10](figures/10-cases-timeseries-by-county-top-10.png)
 
 ![days since 10 cases top 10 log](figures/10-cases-timeseries-by-county-top-10-log.png)
 
+### All Counties
 ![days since 10 cases](figures/10-cases-timeseries-by-county.png)
 
 ![days since 10 cases log](figures/10-cases-timeseries-by-county-log.png)
 
 
 ## Trajectory of Positive Cases
-
+### Top 10 Counties with Number of  Positives Cases
 ![number of cases by county top 10 trajectory states weekly average](figures/trajectory-nys-county-top-ten-log-log.png)
 
+### All Counties
 ![number of cases by county trajectory states weekly average](figures/trajectory-nys-county-log-log-scatter.png)
 
+### New York State
 ![nys trajectory weekly average](figures/trajectory-nys-log-log.png)
 
 
 ## Time Series
-
+### Top 10 Counties with Number of  Positives Cases
 ![timeseries top 10](figures/timeseries-by-county-top-10.png)
 
 ![timeseries top 10 log](figures/timeseries-by-county-top-10-log.png)
 
+### All Counties
 ![timeseries by county](figures/timeseries-by-county.png)
 
 ![timeseries by county log](figures/timeseries-by-county-log.png)
