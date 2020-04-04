@@ -4,8 +4,10 @@
 *Date Created: April 4, 2020*  
 *Date Updated: April 4, 2020*
 
-New York State Statewide COVID-19 Testing Data Repository: https://health.data.ny.gov/Health/New-York-State-Statewide-COVID-19-Testing/xdss-u53e.     
-Data Provided by: New York State Department of Health.
+Data Provided by: New York State Department of Health  
+New York State Statewide COVID-19 Testing Data Repository:
+https://health.data.ny.gov/Health/New-York-State-Statewide-COVID-19-Testing/xdss-u53e.     
+
 
 Data Description: *This dataset includes information on the number of tests of individuals for COVID-19 infection performed in New York State beginning March 1, 2020, when the first case of COVID-19 was identified in the state. The primary goal of publishing this dataset is to provide users timely information about local disease spread and reporting of positive cases. The data will be updated daily, reflecting tests completed by 12:00 am (midnight) the day of the update (i.e., all tests completed by the end of the day on the day before the update).*
 
