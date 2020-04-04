@@ -4,8 +4,8 @@
 *Date Created: April 4, 2020*  
 *Date Updated: April 4, 2020*
 
-Data Provided by: New York State Department of Health  
-New York State Statewide COVID-19 Testing Data Repository:
+Data Provided by: New York State Department of Health.  
+New York State Statewide COVID-19 Testing Data Repository:  
 https://health.data.ny.gov/Health/New-York-State-Statewide-COVID-19-Testing/xdss-u53e.     
 
 
@@ -31,6 +31,10 @@ Data Description: *This dataset includes information on the number of tests of i
 
 
 # Figures
+
+## Bar Charts
+
+![numer of cases by county  barh](figures/cases-by-county-barh.png)
 
 ## Days Since 10th Positive Case
 
@@ -63,9 +67,7 @@ Data Description: *This dataset includes information on the number of tests of i
 ![timeseries by county log](figures/timeseries-by-county-log.png)
 
 
-## Bar Charts
 
-![numer of cases by county  barh](figures/cases-by-county-barh.png)
 
 
 
