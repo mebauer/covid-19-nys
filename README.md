@@ -16,18 +16,18 @@ Data Description: *This dataset includes information on the number of tests of i
 
 **Table 1. Cumulative Number of Positives in New York State (Top 10 Counties)**
 
-|| County| New Positives| Cumulative Number of Positives|Total Number of Tests Performed| Cumulative Number of Tests Performed|
-|---:|:------------|----------------:|---------------------------------:|----------------------------------:|----------------:|
-|  0 | Queens      | 1,899           | 18,167                           | 3,048                             | 32,000                                 |
-|  1 | Kings       | 1,396           | 15,700                           | 2,512                             | 30,372                                 |
-|  2 | Westchester | 784             | 12,351                           | 1,632                             | 40,713                                 |
-|  3 | Nassau      | 1,437           | 12,024                           | 2,663                             | 26,971                                 |
-|  4 | Bronx       | 1,159           | 11,086                           | 1,946                             | 21,857                                 |
-|  5 | Suffolk     | 1,408           | 10,154                           | 2,575                             | 24,028                                 |
-|  6 | New York    | 609             | 8,452                            | 1,294                             | 20,893                                 |
-|  7 | Rockland    | 538             | 4,289                            | 997                               | 10,108                                 |
-|  8 | Richmond    | 287             | 3,754                            | 563                               | 8,282                                  |
-|  9 | Orange      | 404             | 2,397                            | 1,114                             | 6,866  
+|    | County      | Cumulative Number of Positives   | Cumulative Number of Tests Performed   |
+|---:|:------------|---------------------------------:|---------------------------------------:|
+|  0 | Queens      | 21,436                           | 37,662                                 |
+|  1 | Kings       | 18,558                           | 35,596                                 |
+|  2 | Nassau      | 14,398                           | 31,860                                 |
+|  3 | Westchester | 13,723                           | 43,955                                 |
+|  4 | Bronx       | 13,368                           | 25,743                                 |
+|  5 | Suffolk     | 12,405                           | 28,691                                 |
+|  6 | New York    | 9,898                            | 23,991                                 |
+|  7 | Rockland    | 5,326                            | 12,112                                 |
+|  8 | Richmond    | 4,291                            | 9,474                                  |
+|  9 | Orange      | 3,102                            | 8,989                                  | 
 
 
 # Figures
@@ -38,7 +38,7 @@ Data Description: *This dataset includes information on the number of tests of i
 ![numer of cases by county  barh](figures/cases-by-county-barh.png)  
 
 
-##  Positives Per Day (Weekly Average) by Number of Days Since 10th Positive Case
+##  Number of Positives Per Day
 ### Top 10 Counties with Number of Positives Cases
 
 ![days since 10 daily cases top 10 weekly](figures/10-cases-timeseries-by-county-top-10-weekly.png)
@@ -46,14 +46,14 @@ Data Description: *This dataset includes information on the number of tests of i
 ![days since 10 daily cases top 10 weekly log](figures/10-cases-timeseries-by-county-top-10-weekly-log.png) 
 
 
-##  Growth Factor of Positives Per Day by Number of Days Since 10th Positive Case
+##  Growth Factor of Number of Positives Per Day
 ### Top 10 Counties with Number of Positives Cases
 
 ![growth factor daily cases top 10 weekly](figures/growth-factor-by-county-top-10-weekly.png)
 
 ![growth factor daily cases top 10 daily](figures/growth-factor-by-county-top-10.png)
 
-##  Cumulative Positives by Number of Days Since 10th Positive Case
+##  Cumulative Number of Positives
 ### Top 10 Counties with Number of Positives Cases
 ![days since 10 cases top 10](figures/10-cases-timeseries-by-county-top-10.png)
 
@@ -65,8 +65,8 @@ Data Description: *This dataset includes information on the number of tests of i
 ![days since 10 cases log](figures/10-cases-timeseries-by-county-log.png)  
 
 
-## Trajectory of Positive Cases
-### Top 10 Counties with Number of Positives Cases
+## Trajectory of Number of Positives
+### Top 10 Counties with Number of Positive Cases
 ![number of cases by county top 10 trajectory states weekly average](figures/trajectory-nys-county-top-ten-log-log.png)
 
 ### All Counties in New York State
@@ -77,7 +77,7 @@ Data Description: *This dataset includes information on the number of tests of i
 
 
 ## Time Series
-### Top 10 Counties with Number of Positives Cases
+### Top 10 Counties with Number of Positive Cases
 ![timeseries top 10](figures/timeseries-by-county-top-10.png)
 
 ![timeseries top 10 log](figures/timeseries-by-county-top-10-log.png)
