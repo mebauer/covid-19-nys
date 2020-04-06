@@ -38,15 +38,22 @@ Data Description: *This dataset includes information on the number of tests of i
 ![numer of cases by county  barh](figures/cases-by-county-barh.png)  
 
 
-##  Positives Per Day - Weekly Average (Days Since 10th Positive Case)
+##  Positives Per Day (Weekly Average) by Number of Days Since 10th Positive Case
 ### Top 10 Counties with Number of Positives Cases
 
 ![days since 10 daily cases top 10 weekly](figures/10-cases-timeseries-by-county-top-10-weekly.png)
 
-![days since 10 daily cases top 10 weekly log](figures/10-cases-timeseries-by-county-top-10-weekly-log.png)  
+![days since 10 daily cases top 10 weekly log](figures/10-cases-timeseries-by-county-top-10-weekly-log.png) 
 
 
-##  Cumulative Positives (Days Since 10th Positive Case)
+##  Growth Factor of Positives Per Day by Number of Days Since 10th Positive Case
+### Top 10 Counties with Number of Positives Cases
+
+![growth factor daily cases top 10 weekly](figures/growth-factor-by-county-top-10-weekly.png)
+
+![growth factor daily cases top 10 daily](figures/growth-factor-by-county-top-10.png)
+
+##  Cumulative Positives by Number of Days Since 10th Positive Case
 ### Top 10 Counties with Number of Positives Cases
 ![days since 10 cases top 10](figures/10-cases-timeseries-by-county-top-10.png)
 
