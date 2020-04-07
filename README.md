@@ -2,7 +2,7 @@
 
 *Author: Mark Bauer*  
 *Date Created: April 4, 2020*  
-*Date Updated: April 6, 2020*
+*Date Updated: April 7, 2020*
 
 Data Provided by: New York State Department of Health.  
 New York State Statewide COVID-19 Testing Data Repository:  
@@ -18,16 +18,16 @@ Data Description: *This dataset includes information on the number of tests of i
 
 |    | County      | Cumulative Number of Positives   | Cumulative Number of Tests Performed   |
 |---:|:------------|---------------------------------:|---------------------------------------:|
-|  0 | Queens      | 21,436                           | 37,662                                 |
-|  1 | Kings       | 18,558                           | 35,596                                 |
-|  2 | Nassau      | 14,398                           | 31,860                                 |
-|  3 | Westchester | 13,723                           | 43,955                                 |
-|  4 | Bronx       | 13,368                           | 25,743                                 |
-|  5 | Suffolk     | 12,405                           | 28,691                                 |
-|  6 | New York    | 9,898                            | 23,991                                 |
-|  7 | Rockland    | 5,326                            | 12,112                                 |
-|  8 | Richmond    | 4,291                            | 9,474                                  |
-|  9 | Orange      | 3,102                            | 8,989                                  | 
+|  0 | Queens      | 24,840                           | 43,256                                 |
+|  1 | Kings       | 20,879                           | 39,854                                 |
+|  2 | Nassau      | 16,610                           | 36,320                                 |
+|  3 | Bronx       | 15,348                           | 29,367                                 |
+|  4 | Westchester | 14,804                           | 46,701                                 |
+|  5 | Suffolk     | 14,517                           | 33,225                                 |
+|  6 | New York    | 11,012                           | 26,402                                 |
+|  7 | Rockland    | 5,990                            | 13,506                                 |
+|  8 | Richmond    | 4,797                            | 10,679                                 |
+|  9 | Orange      | 3,599                            | 10,420  
 
 
 # Figures
