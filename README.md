@@ -69,6 +69,9 @@ Data Description: *This dataset includes information on the number of tests of i
 ### Top 10 Counties with Number of Positive Cases
 ![number of cases by county top 10 trajectory states weekly average](figures/trajectory-nys-county-top-ten-log-log.png)
 
+### Counties with at least 900 Number of Positive Cases
+![number of cases by county trajectory states weekly average 900 cases min](figures/trajectory-nys-county-log-log-scatter-x-limit.png)
+
 ### All Counties in New York State
 ![number of cases by county trajectory states weekly average](figures/trajectory-nys-county-log-log-scatter.png)
 
