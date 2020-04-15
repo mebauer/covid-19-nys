@@ -41,10 +41,17 @@ Data Description: *This dataset includes information on the number of tests of i
 ##  Number of Positives Per Day
 ### Top 10 Counties with Number of Positives Cases
 
+### Weekly Average
+
 ![days since 10 daily cases top 10 weekly](figures/10-cases-timeseries-by-county-top-10-weekly.png)
 
 ![days since 10 daily cases top 10 weekly log](figures/10-cases-timeseries-by-county-top-10-weekly-log.png) 
 
+### Daily
+
+![days since 10 daily cases top 10 daily](figures/10-cases-timeseries-by-county-top-10-daily.png)
+
+![days since 10 daily cases top 10 daily log](figures/10-cases-timeseries-by-county-top-10-daily-log.png)
 
 ##  Growth Factor of Number of Positives Per Day
 ### Top 10 Counties with Number of Positives Cases
