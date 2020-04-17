@@ -37,6 +37,7 @@ Data Description: *This dataset includes information on the number of tests of i
 
 ![numer of cases by county  barh](figures/cases-by-county-barh.png)  
 
+![epi curve](figures/epi_curve.png)  
 
 ##  Number of Positives Per Day
 ### Top 10 Counties with Number of Positives Cases
