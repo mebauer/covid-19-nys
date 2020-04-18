@@ -18,16 +18,16 @@ Data Description: *This dataset includes information on the number of tests of i
 
 |    | County      | Cumulative Number of Positives   | Cumulative Number of Tests Performed   |
 |---:|:------------|---------------------------------:|---------------------------------------:|
-|  0 | Queens      | 37,918                           | 70,663                                 |
-|  1 | Kings       | 33,521                           | 66,072                                 |
-|  2 | Nassau      | 27,772                           | 62,276                                 |
-|  3 | Bronx       | 25,932                           | 51,053                                 |
-|  4 | Suffolk     | 24,182                           | 57,047                                 |
-|  5 | Westchester | 21,828                           | 65,268                                 |
-|  6 | New York    | 17,091                           | 42,050                                 |
-|  7 | Rockland    | 8,752                            | 20,114                                 |
-|  8 | Richmond    | 8,684                            | 20,057                                 |
-|  9 | Orange      | 5,888                            | 17,001                                 |
+|  0 | Queens      | 40,216                           | 77,066                                 |
+|  1 | Kings       | 35,763                           | 72,435                                 |
+|  2 | Nassau      | 29,180                           | 66,635                                 |
+|  3 | Bronx       | 28,019                           | 56,443                                 |
+|  4 | Suffolk     | 26,143                           | 62,928                                 |
+|  5 | Westchester | 23,179                           | 69,608                                 |
+|  6 | New York    | 17,932                           | 45,111                                 |
+|  7 | Richmond    | 9,333                            | 22,247                                 |
+|  8 | Rockland    | 9,171                            | 21,402                                 |
+|  9 | Orange      | 6,266                            | 18,088                                 |
 
 
 # Figures
